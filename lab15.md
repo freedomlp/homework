@@ -54,3 +54,4 @@ char whereGoNext(int Hx,int Hy,int foodposition[],char array[][12])	{
 		}
 	}
 }
+````
